@@ -1,0 +1,174 @@
+* { margin: 0; padding: 0; }
+
+a { text-decoration: none; }
+
+.clearfix { overflow: auto }
+
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.top-bar {
+	width: 1000px;
+	background: maroon;
+	height: 90px;
+
+
+}
+
+.top-bar-links
+{
+	float: left;
+	margin: 15px 5px 15px 15px;
+	font-family: georgia;
+	color: white;
+	text-decoration: none;
+}
+
+.loggedin
+{
+	float: right;
+	margin: 15px 15px 10px 20px;
+	font-family: georgia;
+	color: white;
+	text-decoration: none;
+}
+
+.loggedin a
+{
+	color: white;
+}
+
+img
+{
+	margin-top: 10px;
+	width: 1000px;
+	height: 500px;
+}
+
+
+
+header .logo {
+	margin-top: 30px;
+	margin-left: 20px; 
+	float: left
+}
+
+header .logo h1 { 
+	font-size: 30px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	font-variant: small-caps;
+	font-family: arial;
+}
+
+header .socialmedia { 
+	float: right; 
+	margin-top: 50px;
+	margin-right: 20px;
+}
+
+header .socialmedia ul { 
+	list-style: none 
+}
+
+header .socialmedia ul li { 
+	display: inline 
+}
+
+header .socialmedia ul li a {
+	margin-left: 5px;
+	padding: 6px;
+	background: #444;
+	color: #fff;
+	display: inline-block;
+	border-radius: 20px;
+}
+
+header .socialmedia ul li a:hover {
+	background: orange;
+}
+
+nav {
+	margin-top: 20px;
+	background: #000;
+	background: linear-gradient(#0d0d0d, #404040, #0d0d0d);
+	text-align: center;
+	border-radius: 5px;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	color: #fff;
+	text-transform: uppercase;
+	margin: 10px 40px 10px 40px;
+	display: inline-block;
+
+}
+
+nav ul li a:hover {
+	color: red;
+}
+
+/*********************************************************************/
+
+
+div.copyrights
+{
+	width: 1000px;
+	background: #eee;
+	float: left;
+
+}
+
+div.left
+{
+	float: left;
+	margin: 20px;
+
+}
+
+div.right
+{
+	float: right;
+	margin: 20px;
+
+}
+
+/*************************************/
+
+
+form.userform label{
+ 	width: 30%;
+
+ }
+
+ form.userform input{
+ 	width: 20%;
+ }
+ 
+ form.userform button{
+ 	width: 200px;
+ }
+
+.errmsg{
+ 	margin: 20px 0;
+ } 
+
+
+ .about
+ {
+ 	font-family: georgia;
+ 	width: 800px;
+ 	margin-left: 100px;
+ 	margin-top: 50px;
+ }
+

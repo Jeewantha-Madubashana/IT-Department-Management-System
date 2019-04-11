@@ -1,0 +1,57 @@
+
+
+/********************************/
+
+.loginStudent {
+	width: 350px;
+	margin: 20px 20px 20px 20px ;
+	float: left;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+p.error {
+	background: red;
+	color: white;
+	padding: 10px;
+}
+
+p.info {
+	background: green;
+	color: white;
+	padding: 10px;
+	}
+
+input {
+	display: block;
+	width: 100%;
+	padding: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+button {
+	width: 100%;
+	padding: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.loginStudent {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 16px;
+
+}
+
+.intro p{
+	margin-top:  15px: 
+}
+
+
+
+ 
